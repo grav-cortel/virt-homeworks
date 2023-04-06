@@ -1,4 +1,4 @@
-# Домашние задания по модулю «Виртуализация и Terraform»
+# Домашние задания по курсу «Виртуализация, базы данных и Terraform»
 
 В этом репозитории расположены ваши домашние задания к каждой лекции. 
 
@@ -6,17 +6,20 @@
 
 Задачи со звездочкой (*) являются дополнительными задачами и/или задачами повышенной сложности. Они не являются обязательными к выполнению, но помогут вам глубже понять тему.
 
-Любые вопросы по решению задач задавайте в чате учебной группы.
+Любые вопросы по решению задач задавайте в чате Slack (ссылку вы найдете в письме на вашей эл. почте).
 
-## Модуль "Виртуализация и контейнеризация"
+## Модуль 5. Виртуализация
 
-1. [Введение в виртуализацию.](https://github.com/netology-code/virt-homeworks/tree/virt-11/05-virt-01-basics)
+5.1. [Основы виртуализации](https://github.com/netology-code/virt-homeworks/tree/master/05-virt-01-basics)
 
-2. [Применение принципов IaaC в работе с виртуальными машинами](https://github.com/netology-code/virt-homeworks/tree/virt-11/05-virt-02-iaac)
+5.2. [Системы управления виртуализацией](https://github.com/netology-code/virt-homeworks/tree/master/05-virt-02-control-systems)
 
-3. [Введение в Docker](https://github.com/netology-code/virt-homeworks/tree/virt-11/05-virt-03-docker)
+5.3. [Контейнеризация на примере Docker](https://github.com/netology-code/virt-homeworks/tree/master/05-virt-03-docker-usage)
 
-## Модуль "Облачная инфраструктура. Terraform"
+5.4. [Практические навыки работы с Docker](https://github.com/netology-code/virt-homeworks/tree/master/05-virt-04-docker-practical-skills)
 
-1. [Конфигурация как код](07-terraform-01-intro) 
+
+## Модуль 7. Облачная инфраструктура. Terraform
+
+7.1. [Конфигурация как код](07-terraform-01-intro) 
 
